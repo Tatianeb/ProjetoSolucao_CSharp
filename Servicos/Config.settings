@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Servicos" GeneratedClassName="Config">
+  <Profiles />
+  <Settings>
+    <Setting Name="ConnectionString" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Data Source = 3P49_INSTRUTOR\SQLEXPRESS;USER ID=VS2015;PASSWORD=vs2015; initial catalog=BDMOVIMENTO;</Value>
+    </Setting>
+    <Setting Name="Credencial" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Tatiane</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

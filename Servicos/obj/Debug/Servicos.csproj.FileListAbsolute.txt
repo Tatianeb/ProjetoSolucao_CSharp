@@ -1,0 +1,5 @@
+C:\Projetos\Tatiane\Servicos\Servicos\bin\Debug\Servicos.dll.config
+C:\Projetos\Tatiane\Servicos\Servicos\bin\Debug\Servicos.dll
+C:\Projetos\Tatiane\Servicos\Servicos\bin\Debug\Servicos.pdb
+C:\Projetos\Tatiane\Servicos\Servicos\obj\Debug\Servicos.dll
+C:\Projetos\Tatiane\Servicos\Servicos\obj\Debug\Servicos.pdb

@@ -1,0 +1,11 @@
+C:\Projetos\Tatiane\Servicos\Testar_DLL\bin\Debug\Testar_DLL.exe.config
+C:\Projetos\Tatiane\Servicos\Testar_DLL\bin\Debug\Testar_DLL.exe
+C:\Projetos\Tatiane\Servicos\Testar_DLL\bin\Debug\Testar_DLL.pdb
+C:\Projetos\Tatiane\Servicos\Testar_DLL\bin\Debug\Servicos.dll
+C:\Projetos\Tatiane\Servicos\Testar_DLL\bin\Debug\Servicos.pdb
+C:\Projetos\Tatiane\Servicos\Testar_DLL\obj\Debug\Testar_DLL.csprojResolveAssemblyReference.cache
+C:\Projetos\Tatiane\Servicos\Testar_DLL\obj\Debug\Testar_DLL.Form1.resources
+C:\Projetos\Tatiane\Servicos\Testar_DLL\obj\Debug\Testar_DLL.Properties.Resources.resources
+C:\Projetos\Tatiane\Servicos\Testar_DLL\obj\Debug\Testar_DLL.csproj.GenerateResource.Cache
+C:\Projetos\Tatiane\Servicos\Testar_DLL\obj\Debug\Testar_DLL.exe
+C:\Projetos\Tatiane\Servicos\Testar_DLL\obj\Debug\Testar_DLL.pdb
